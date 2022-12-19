@@ -2,4 +2,6 @@ console.log('mohan');
 console.log('vijay');
 console.log('viji');
 console.log('seetharaman');
-new code
+new code : created
+console.log('new changes');
+document.write('everything is fine');
