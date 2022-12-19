@@ -5,3 +5,4 @@ console.log('seetharaman');
 new code : created
 console.log('new changes');
 document.write('everything is fine');
+console.log('new changes');
